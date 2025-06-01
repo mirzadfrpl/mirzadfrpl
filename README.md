@@ -19,8 +19,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirzadnshfr12&show_icons=true&theme=radical" alt="mirzadnshfr12's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzadnshfr12&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mirzadfrpl&show_icons=true&theme=radical" alt="mirzadfrpl's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzadfrpl&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
