@@ -1,46 +1,55 @@
-<p align="center">
-</p>
-
-<h1 align="center">Hi 👋, I'm Mirza Danish Faturrahman</h1>
-<h3 align="center">🚀 Fullstack Developer from Indonesia 🇮🇩</h3>
-
----
-
-### 🧑‍💻 About Me
-
-- 💼 Fullstack Web Developer | Mobile App Developer  
-- ⚙️ Tech Stack: Laravel, Tailwind CSS, React, Kotlin, Python  
-- 🔭 Currently building: **RollPay**, a Laravel-based payroll & presence system  
-- 🌱 Learning: TypeScript, Next.js, and AI integration in web apps  
-- 🎯 Passionate about clean code, UI/UX, and scalable backend
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Mirza+Danish;Software+Engineer;Fullstack+Developer" alt="Typing SVG" />
+  
+  ### Software Engineer from Indonesia 🇮🇩
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### About Me
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" />
-</p>
+I am a **Software Engineer at PT Energi Jaring Komunikasi** specializing in full-stack web and mobile application development. My background combines formal software engineering education with hands-on experience in building practical solutions like retail management systems. I am passionate about writing clean code, designing scalable backend architectures, and continuously exploring modern technologies, including AI integrations, TypeScript, and Next.js.
 
 ---
 
-### 📱 Connect with Me
+### Tech Stack & Tools
 
-<p align="left">
-  <a href="https://instagram.com/mirzadnshfr12_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    <span>@mirzadnshfr12_</span>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,laravel,python,kotlin,figma,git" alt="Tech Stack Icons" />
   </a>
-</p>
+</div>
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirzadfrpl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Mirza's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzadfrpl&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="Mirza's GitHub Streak" />
+</div>
+
+---
+
+### Connect
+
+<div align="center">
+  <a href="https://instagram.com/mirzadnshfr12_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <!-- Ganti dengan email dan link LinkedIn aslimu, atau hapus jika tidak ingin ditampilkan -->
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+
+</div>
