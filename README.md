@@ -25,11 +25,9 @@ I am a **Software Engineer at PT Energi Jaring Komunikasi** specializing in full
 ### 📊 GitHub Activity & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirzadfrpl&show_icons=true&theme=default&hide_border=true&title_color=3B82F6" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzadfrpl&layout=compact&theme=default&hide_border=true&title_color=3B82F6" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mirzadfrpl&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzadfrpl&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6" height="170" alt="Top Languages" />
 </div>
-
-> **Catatan:** Ganti `mirzadfrpl` di URL dengan username GitHub asli Anda jika berbeda.
 
 ---
 
@@ -39,7 +37,6 @@ I am a **Software Engineer at PT Energi Jaring Komunikasi** specializing in full
   <a href="https://instagram.com/mirzadnshfr12_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!-- Tambahkan link profesional lain seperti LinkedIn atau Email jika ada -->
 </div>
 
 ---
